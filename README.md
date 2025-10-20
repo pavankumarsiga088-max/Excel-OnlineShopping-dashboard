@@ -39,3 +39,5 @@ Trend Analysis
 ✅ Which years had peak performance?
 ✅ What's the sales trajectory for 2024-2025?
 
+Dashboard Interaction <a href="https://github.com/pavankumarsiga088-max/Excel-OnlineShopping-dashboard/blob/main/Screenshot%202025-10-20%20232907.png">View Dashboard</a>
+
