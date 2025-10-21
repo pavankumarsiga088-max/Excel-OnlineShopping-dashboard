@@ -26,4 +26,7 @@ Dashboard Interaction <a href="https://github.com/pavankumarsiga088-max/Excel-On
 - Documentation - Creating user guides and technical specs
 - Optimization - Performance tuning and enhancements
 - Deployment & Maintenance - Publishing and ongoing updates
+  
+## Dashboard:
+<img width="984" height="665" alt="Screenshot 2025-10-20 232907" src="https://github.com/user-attachments/assets/5d9d8a24-8484-48f5-b9a3-a92d5d26a76d" />
 
