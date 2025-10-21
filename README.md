@@ -16,4 +16,14 @@ The dashboard helps answer critical business questions:
 Dashboard Interaction <a href="https://github.com/pavankumarsiga088-max/Excel-OnlineShopping-dashboard/blob/main/Screenshot%202025-10-20%20232907.png">View Dashboard</a>
 
 ## Process:
+- Data Collection & Preparation - Gathering and cleaning source data
+- Data Organization - Structuring worksheets and formatting
+- Analysis & Pivot Tables - Creating 5 pivot tables for different analyses
+- Visualization Design - Building 5 charts (Pie, Column, Combo, Bar, Line)
+- Interactivity Implementation - Adding 6 slicers with cross-filtering
+- Dashboard Assembly - Laying out components in grid structure
+- Testing & Validation - Ensuring accuracy and functionality
+- Documentation - Creating user guides and technical specs
+- Optimization - Performance tuning and enhancements
+- Deployment & Maintenance - Publishing and ongoing updates
 
