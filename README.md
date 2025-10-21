@@ -1,10 +1,10 @@
 # Excel-OnlineShopping-dashboard
 Interactive Excel dashboard for e-commerce analytics with dynamic charts tracking product sales, payment trends, and customer behavior (2013-2025). Features pivot tables, slicers, and real-time filtering across products, payments, order status, coupons, and referral sources. Perfect for business intelligence and data visualization.
 
-## Dataset used:
+## Dataset used :
 - <a href="https://github.com/pavankumarsiga088-max/Excel-OnlineShopping-dashboard/blob/main/Online-Store-Orders(Dashboard).xlsx">Dataset</a>
 
-## Questions (KPIs):
+## Questions (KPIs) :
 The dashboard helps answer critical business questions:
 
 - Which products are bestsellers?
@@ -15,7 +15,7 @@ The dashboard helps answer critical business questions:
 
 Dashboard Interaction <a href="https://github.com/pavankumarsiga088-max/Excel-OnlineShopping-dashboard/blob/main/Screenshot%202025-10-20%20232907.png">View Dashboard</a>
 
-## Process:
+## Process :
 - Data Collection & Preparation - Gathering and cleaning source data
 - Data Organization - Structuring worksheets and formatting
 - Analysis & Pivot Tables - Creating 5 pivot tables for different analyses
@@ -30,5 +30,5 @@ Dashboard Interaction <a href="https://github.com/pavankumarsiga088-max/Excel-On
 ## Dashboard:
 <img width="984" height="665" alt="Screenshot 2025-10-20 232907" src="https://github.com/user-attachments/assets/5d9d8a24-8484-48f5-b9a3-a92d5d26a76d" />
 
-## Final conclusion:
+## Final conclusion :
 This Excel dashboard successfully analyzes 3,473+ transactions across 13 years (2013-2025), revealing a healthy e-commerce business with strong fundamentals. Key findings show email marketing dominates customer acquisition (35-40% higher than social channels), free shipping drives conversions better than discounts, and electronics + furniture account for 45% of total volume. The business demonstrates 70%+ order fulfillment rate indicating operational excellence, but faces challenges with 5-8% return rate and cash payment cancellations that need attention. Strategic recommendation: Optimize existing channels rather than expand - focus on maximizing email/Instagram ROI, reducing returns through better product descriptions, and launching product bundles. The dashboard provides real-time business intelligence enabling data-driven decisions across marketing, operations, and sales. With balanced product portfolio, diversified acquisition channels, and 13-year operational stability, this business scores 8.2/10 in overall health. Primary opportunities lie in personalization, bundle offers, and Instagram commerce integration. This dashboard transforms raw data into actionable insights, demonstrating advanced Excel proficiency and strong business analytics capabilities - a powerful tool for evidence-based strategic planning.
